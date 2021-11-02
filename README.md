@@ -43,8 +43,10 @@
  <code><img height="35" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
  <span>...</span>
 </p>
-<br />
 
+<br />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotmaker619&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
+<p align="left">
 - 🔭 I am <b>ready to start</b> your project anytime.
 
 - 😄 I'm an experienced <b>individual full-stack developer</b> adept in all stages of advanced web development.
@@ -53,4 +55,4 @@
 - 🤔 I’m looking for a <b>new challenge</b> and <b>position</b>.
 - 📫 <b>How to reach me</b>: dotmaker823@gmail.com  <b>Skype:</b> live:.cid.d08fa39fcfab354f
 - ⚡ <b>Fun fact</b>: Always <b>passionate to work</b>, <b>learn</b> new technologies, and <b>love to share</b> experiences with others.
-
+</p>
