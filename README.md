@@ -4,42 +4,53 @@
 <meta name="github"/>
 <meta name="full-stack"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyVirgo&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotmaker619&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=36&card_width=320px&border_radius=20px&show_icons=true" alt="beautiful-github-profile-hi-with-handshake"/>
 
-# Hi there. <img src="https://user-images.githubusercontent.com/81764479/139946842-981c8dad-0756-45e4-94e3-cecf05ef5406.gif" data-w="400" data-h="400" data-xblocker="passed" style="visibility: visible; width: 50px; height: 50px; margin: 0px;">
+# Welcome to my profile. <img src="https://user-images.githubusercontent.com/81764479/139946842-981c8dad-0756-45e4-94e3-cecf05ef5406.gif" data-w="400" data-h="400" data-xblocker="passed" style="visibility: visible; width: 50px; height: 50px; margin: 0px;">
 
+<img src="https://user-images.githubusercontent.com/81764479/139947974-d0732d37-8fd7-4deb-a1e7-2d818a06db0a.gif" data-w="400" data-h="400" data-xblocker="passed" style="visibility: visible; width: 50px; height: 50px; margin: 0px;"><b> Feel free to contact me if you have an Idea or project</b> 
 
-## 👏 Feel free to contact me if you have an Idea or project.
-
-🚀 Full-Stack Engineer :book: Web & Blockchain related technologies.
+🚀 <b>Full-Stack Engineer</b> :book: <b>Web & Blockchain</b> related technologies.
 <br/><br/>
 
 <p align="left">
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="60" height="60" style="visibility: visible;">
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/vue.png" alt="vue-github-profile-awesome-beautiful" width="60" height="60" style="visibility: visible;">
- <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="60" height="60" style="visibility: visible;">
- <img src="https://camo.githubusercontent.com/cb94a3b711f101cbeb3c3e11a7d8fdba54583ab222ea4e86c67ff080107f5f3a/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f333834302f34623232383032343836333939372e353633336235336233323035662e706e67" alt="aws-github-profile-awesome-beautiful" width="60" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack-github-profile-awesome-beautiful" width="60" height="60"/> 
- <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby-github-profile-awesome-beautiful" width="60" height="60"/>
- <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="60" height="60" style="visibility: visible;">
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+ <code><img height="35" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
+ <code><img height="35" src="https://bestofjs.org/logos/vuetify.svg"></code>
+ <code><img height="35" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+ <code><img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="40" height="40"/></code>
+ <code><img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/></code>
+ <code><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/jquery.png" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+ <code><img height="35" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
  <span>...</span>
 </p>
-<br/>
+<br />
 
+- 🔭 I am <b>ready to start</b> your project anytime.
 
-- 😄 I'm an experienced individual web developer adept in all stages of advanced web development.
-- 🔭 I'm a specialist in React.js/Vue.js/Node.js/Laravel etc.
-- 🌱 Also, have good hands in Blockchain related technologies like Solidity/Truffle/Web3.js/Ethereum.
-- 🤔 I’m looking for a new challenge and position.
-- 📫 How to reach me: dotmaker823@gmail.com  Skype: live:.cid.d08fa39fcfab354f
-- ⚡ Fun fact: Always passionate to work, learn new technologies, and love to share experiences with others.
+- 😄 I'm an experienced <b>individual full-stack developer</b> adept in all stages of advanced web development.
+- 🔭 I'm <b>a specialist</b> in React.js/Vue.js/Node.js/Laravel etc.
+- 🌱 Also, have good hands in <b>Blockchain related technologies</b> like Solidity/Truffle/Web3.js/Ethereum.
+- 🤔 I’m looking for a <b>new challenge</b> and <b>position</b>.
+- 📫 <b>How to reach me</b>: dotmaker823@gmail.com  <b>Skype:</b> live:.cid.d08fa39fcfab354f
+- ⚡ <b>Fun fact</b>: Always <b>passionate to work</b>, <b>learn</b> new technologies, and <b>love to share</b> experiences with others.
 
-![github-overview copy](https://user-images.githubusercontent.com/81764479/129497382-61a9542f-fd3c-4c63-83ff-98ce312ea284.png)
